@@ -1,7 +1,7 @@
-import os
-import pyperclip
+import os  #required for OS operations
+import pyperclip  #required for clipboard operations monitoring
 import time
-from watchdog.observers import Observer
+from watchdog.observers import Observer    # required for monitoring folders and show the output
 from watchdog.events import FileSystemEventHandler
 
 # Define the root directory to monitor
