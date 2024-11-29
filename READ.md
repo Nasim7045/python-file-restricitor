@@ -1,3 +1,7 @@
+READ BOTH THE PARTS OF THIS FILE IN ORDER TO UNDERSTAND THE WORKING OF THESE PROJECTS
+
+
+
 File Operations Monitoring and Clipboard Handling
 This Python script monitors file operations (copy-paste actions) and the clipboard in real time. It ensures that files copied from the ROOT_DIR (specified directory) and pasted outside this directory are automatically deleted. The script also allows copy-paste operations within the ROOT_DIR and its subdirectories, as well as from external locations into the ROOT_DIR.
 
